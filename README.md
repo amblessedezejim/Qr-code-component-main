@@ -21,7 +21,7 @@ Created on 17th December 2022
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Open Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-Bt1pjCpd1i)
 
 ### Built with
 
