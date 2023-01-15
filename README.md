@@ -34,4 +34,4 @@ Created on 17th December 2022
 ## Author
 
 - Frontend Mentor - [@Amblessed Ezejim](https://www.frontendmentor.io/profile/amblessedezejim)
-- Twitter - [@Codibility](https://www.twitter.com/amblessedezejim)
+- Twitter - [@Amblessed Ezejim](https://www.twitter.com/amblessedezejim)
