@@ -21,7 +21,7 @@ Created on 17th December 2022
 
 ### Links
 
-- Solution URL: [Open Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-Bt1pjCpd1i)
+- Solution URL: [Open Live](https://amblessedezejim.github.io/Qr-code-component-main/)
 
 ### Built with
 
@@ -34,4 +34,4 @@ Created on 17th December 2022
 ## Author
 
 - Frontend Mentor - [@Amblessed Ezejim](https://www.frontendmentor.io/profile/amblessedezejim)
-- Twitter - [@Codibility](https://www.twitter.com/codibility)
+- Twitter - [@Codibility](https://www.twitter.com/amblessedezejim)
