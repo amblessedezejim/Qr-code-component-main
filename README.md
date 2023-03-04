@@ -21,7 +21,7 @@ Created on 17th December 2022
 
 ### Links
 
-- Solution URL: [Open Live](https://amblessedezejim.github.io/Qr-code-component-main/)
+- Solution URL: [Open Live](https://codibility.github.io/Qr-code-component-main/)
 
 ### Built with
 
